@@ -1,2 +1,3 @@
-# Convolutional_Neural_Network
-A simple convolutional neural network in python 3.
+# Convectional Neural Network in Python
+
+- This repository contains a list of functions / classes are commonly used and or defined in a convectional neural network.
